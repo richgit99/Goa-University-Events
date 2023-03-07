@@ -241,9 +241,6 @@ h5 {
         font-size: large;
     }
 
-    .card_container :is(.front_part button, .back_part button) {
-        bottom: 1.1em;
-    }
 
 }
 
